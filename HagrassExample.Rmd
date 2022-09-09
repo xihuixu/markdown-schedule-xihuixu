@@ -1,0 +1,39 @@
+---
+title: "R Markdown Schedule (Example)"
+author: "Matthew Beckman"
+date: "September 6, 2021"
+output: html_notebook
+---
+
+# Class Schedule
+
+### STAT 184: Introduction to R Programmaing
+
+When I was first hired at Penn State, the Statistics Department had just decided to introduce STAT 184 as an introduction to R programming (with no prerequisites), but it had not yet been designed or offered.  There are lots of different approaches to R programming, but I prefer to teach students using the `tidyverse` packages because I believe this to be a more unified and intuitive approach to the language (<https://www.tidyverse.org/>).  The course has grown and evolved quite a bit over the last several years, but it's always one of my favorites to teach!  
+
+![Tidyverse packages (source: RStudio Education)](tidyverse.png)
+
+### STAT 470W: Capstone course for Statistics Majors
+
+This is always a really enjoyable course to teach.  It's not intended to introduce new content, but rather to help students tie together some of the key things have learned across the various courses in the Statistics major as well as prepare them for life after Penn State.  There are a wide variety of different types of jobs out there for statisticians (<https://thisisstatistics.org/jobs-in-statistics/>), so the course really ends up quite different every semester because it tends to shift depending on the needs/desires of the group of students in the room.
+
+![PSU commencement held in Beaver Stadium due to the ongoing COVID-19 Pandemic in Spring 2021 (source: PennLive.com)](https://www.pennlive.com/resizer/TnlfRbzrH-RHv9PqK7GolViIHxY=/700x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6KTPLQJQWZGJPLFOT746ILMVFQ.jpg)
+
+
+# Hobbies, Jobs, etc
+
+### Statistics Education Research
+
+My primary research interest is Statistics Education--i.e., teaching, learning, and assessment in undergraduate statistics (and data science).  Research is a really enjoyable part of my job.  Some recent projects include development of novel assessment tools for evaluating undergraduate statistics programs (i.e., majors), some learning theory studying how students interpret basic tenets of statistical inference, and a recent panel will colleagues at other universities sharing models for implementing version control with Git as a learning objective in statistics & data science courses, including STAT 184 at Penn State (article:  <https://doi.org/10.1080/10691898.2020.1848485>).
+
+![Journal of Statistics & Data Science Education (source: Taylor & Francis Online)](https://www.tandfonline.com/action/showCoverImage?journalCode=ujse21)
+
+
+### Church Band
+
+Life is busy with young kids, so I don't keep up with quite as many hobbies as I used to, but one that I particularly enjoy is playing drums occasionally at my church.  When my wife and I moved to State College for my job at Penn State, we began attending Calvary Church and wanted to find ways to volunteer (<https://www.calvarysc.org/>).  Lots of churches begin and end weekend gatherings with a few songs; some churches have a choir, some just have one person and a piano, but our church (and many others) has a band of volunteers playing drums, guitars, piano, etc.  After attending regularly for a while, I noticed that several volunteers were taking turns playing piano, guitar or singing, but the same guy (Mike) was always playing the drums every single week.  Sometimes, he would be gone but the band would then play with no drums at all!  After a few months of this, I talked to the person who organized the band and explained that I never thought myself particularly talented but I know my around a drum set enough to at least give Mike a break once in a while.  So, every 4-6 weeks for the last couple of years I get a turn!
+
+![A basic 5-piece drum set (source: Wikipedia)](https://upload.wikimedia.org/wikipedia/commons/7/76/Platin_Drums_PTCL2016_AF.jpg)
+
+
+

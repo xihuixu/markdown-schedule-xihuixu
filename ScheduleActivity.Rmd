@@ -1,0 +1,25 @@
+---
+title: "R Markdown Schedule"
+author: "Put Your Name Here!"
+date: "Put the Due Date Here!"
+output: html_notebook
+---
+
+# Schedule
+
+
+### STAT 184: Introduction to R Programmaing
+
+Delete this text and tell us about it!  Don't forget to embed an image and link to a related webpage on the subject.
+
+
+### [Next Topic/Class/Hobby]
+
+Delete this text and tell us about it!
+
+
+### [Another Topic/Class/Hobby]
+
+Delete this text and tell us about it!
+
+
