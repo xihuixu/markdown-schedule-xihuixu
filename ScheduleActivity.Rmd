@@ -8,6 +8,9 @@ output: html_notebook
 # Schedule
 
 
+### STAT 200
+this is a new course.
+
 ### STAT 184: Introduction to R Programmaing
 
 Delete this text and tell us about it!  Don't forget to embed an image and link to a related webpage on the subject.
